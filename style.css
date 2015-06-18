@@ -142,7 +142,7 @@ h2 {
 }
 
 #eighth {
-	background: url(bg/3_0.jpg) 50% 0 no-repeat fixed;
+	background: url(bg/3_0.jpg) 50% 0 no-repeat fixed ;
 	color: white;
 	height: 1000px;
 	margin: 0 auto;
